@@ -1,0 +1,32 @@
+body{
+    background-color: darkblue;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+h1{
+    font-size: 3em;
+}
+
+p{
+    background-color: #232b56 ;
+    padding: 30px 20px;
+    width: 50%;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+button{
+    background-color: white;
+    padding: 20px;
+    font-size: 1.2em;
+}
+
+button:hover{
+    background-color: aliceblue;
+}
+
